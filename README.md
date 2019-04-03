@@ -3,3 +3,6 @@
 ## 导航
 + [基于Eureka组件的服务注册发现](MD/Eureka.md)
 + [服务消费者（rest+ribbon）](MD/rest&ribbon.md)
++ [服务消费者（Feign）](MD/Feign.md)
++ [断路器（Feign）](MD/Feign断路器.md)
+
